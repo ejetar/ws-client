@@ -1,0 +1,19 @@
+{
+    "name": "ejetar/ws-client",
+    "type": "library",
+    "require": {
+        "ratchet/pawl": "^0.4.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ejetar\\WsClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Almeida Girardi",
+            "email": "guilhermeagirardi@gmail.com"
+        }
+    ]
+}
